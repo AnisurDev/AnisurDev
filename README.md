@@ -71,6 +71,9 @@ A passionate **Full-Stack Web Developer** specializing in the **MERN Stack** and
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+
+[![Anisur github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anisur06&theme=tokyo-night)](https://github.com/AnisurDev)
+
 ---
 
 ## 📊 GitHub Stats: Pro
